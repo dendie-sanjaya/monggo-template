@@ -1,0 +1,1010 @@
+[{
+  "_id": {
+    "$oid": "642fc2ed6d6adc9ed9580cb7"
+  },
+  "title": "Default Template A",
+  "template_design": "<html><body style=\"background-color:gray\"><span\"color:white\">{{email_body}}</span></body></html>",
+  "is_active": "yes",
+  "is_delete": "yes",
+  "created_at": "2023-04-07 14:14:53",
+  "updated_at": null,
+  "deleted_at": "2023-05-11 14:12:40"
+},
+{
+  "_id": {
+    "$oid": "645b0e00de5f5140a78644ea"
+  },
+  "title": "Default Template A",
+  "template_design": "<html><body style=\"background-color:gray\"><span\"color:white\">{{email_body}}</span></body></html>",
+  "is_active": "yes",
+  "is_delete": "yes",
+  "created_at": "2023-05-10 10:22:40",
+  "updated_at": null,
+  "deleted_at": "2023-05-11 12:30:30"
+},
+{
+  "_id": {
+    "$oid": "645c779fbfdbbe5cf8139d0e"
+  },
+  "title": "Default Template E",
+  "template_design": "<html><body style=\"background-color:gray\"><span\"color:white\">{{email_body}}</span></body></html>",
+  "is_active": "yes",
+  "is_delete": "yes",
+  "created_at": "2023-05-11 12:05:35",
+  "updated_at": null,
+  "deleted_at": "2023-05-11 14:12:40"
+},
+{
+  "_id": {
+    "$oid": "645c7cc0bfdbbe5cf8139d0f"
+  },
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-11 12:27:28",
+  "updated_at": null,
+  "deleted_at": "2023-05-11 12:30:12"
+},
+{
+  "_id": {
+    "$oid": "645c8594bfdbbe5cf8139d10"
+  },
+  "is_active": "yes",
+  "title": "email template Z",
+  "template_design": "<p>testing<b>template</b></p>",
+  "is_delete": "yes",
+  "created_at": "2023-05-11 13:05:08",
+  "updated_at": null,
+  "deleted_at": "2023-05-11 14:12:40"
+},
+{
+  "_id": {
+    "$oid": "645c874ebfdbbe5cf8139d11"
+  },
+  "is_active": "yes",
+  "title": "email template ZZ",
+  "template_design": "<p>testing<b>template</b></p>",
+  "is_delete": "yes",
+  "created_at": "2023-05-11 13:12:30",
+  "updated_at": null,
+  "deleted_at": "2023-05-11 14:12:40"
+},
+{
+  "_id": {
+    "$oid": "645c8ce4bfdbbe5cf8139d12"
+  },
+  "awikwok": "testing email Urffan",
+  "template_design": "<p>Tested <strong>Editable</strong></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-11 13:36:20",
+  "updated_at": "2023-05-11 14:02:51",
+  "deleted_at": "2023-05-11 14:12:40",
+  "title": "Editable Template"
+},
+{
+  "_id": {
+    "$oid": "645c95f0bfdbbe5cf8139d13"
+  },
+  "title": "Check Titlee",
+  "template_design": "<p>test</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-11 14:14:56",
+  "updated_at": null,
+  "deleted_at": "2023-05-11 14:15:45"
+},
+{
+  "_id": {
+    "$oid": "645c96c9bfdbbe5cf8139d14"
+  },
+  "title": "Testing Template Email",
+  "template_design": "<p><strong>Example </strong>Template</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-11 14:18:33",
+  "updated_at": null,
+  "deleted_at": "2023-05-11 14:18:33"
+},
+{
+  "_id": {
+    "$oid": "645c9701bfdbbe5cf8139d15"
+  },
+  "title": "Testing Email",
+  "template_design": "<p>Example <strong>Email</strong></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-11 14:19:29",
+  "updated_at": null,
+  "deleted_at": "2023-05-15 14:44:07"
+},
+{
+  "_id": {
+    "$oid": "645c9915bfdbbe5cf8139d16"
+  },
+  "title": "Title",
+  "template_design": "<p>Email Content</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-11 14:28:21",
+  "updated_at": null,
+  "deleted_at": "2023-05-15 14:44:10"
+},
+{
+  "_id": {
+    "$oid": "645c9931bfdbbe5cf8139d17"
+  },
+  "title": "Cek Editable Lagi",
+  "template_design": "<p><span style=\"color: rgb(0, 0, 0);\">Dear {sales_name},</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Bersama email ini kami informasikan </span><strong style=\"color: rgb(0, 0, 0);\">Price alert untuk Nasabah {Customer_name}:</strong></p><p><br></p><p><strong>&lt; </strong><span style=\"color: rgb(0, 0, 0);\">Produk {product_type} \"{product_name}\" menyentuh harga NAV {rule} {set amount} pada tanggal {date}.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Untuk informasi lebih lanjut dan perubahan setting, dapat melalui WMS Dashboard pada menu Products {link_Dashboard}</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Terima kasih.</span></p><p><span style=\"color: rgb(0, 0, 0);\">CIMB Niaga Wealth Management System</span></p><p><span style=\"color: rgb(0, 0, 0);\">_____________________________________________________________________________</span></p><p><span style=\"color: rgb(0, 0, 0);\">Email ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.</span></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-11 14:28:49",
+  "updated_at": "2023-05-15 13:39:33",
+  "deleted_at": "2023-05-15 14:44:31"
+},
+{
+  "_id": {
+    "$oid": "645c9b44bfdbbe5cf8139d18"
+  },
+  "title": "New User",
+  "template_design": "<p>&lt;html&gt;</p><p>\t&lt;button style=\"background-color: #333333; color: #ffffff; padding: 16px; border-radius: 16px;\"&gt;</p><p>\t\tDaftar Segera</p><p>\t&lt;/button&gt;</p><p>&lt;/html&gt;</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-11 14:37:40",
+  "updated_at": "2023-05-15 11:18:20",
+  "deleted_at": "2023-05-15 14:43:50"
+},
+{
+  "_id": {
+    "$oid": "646197e9708ec65936ba9680"
+  },
+  "title": "Test Email Content Lagi",
+  "template_design": "<p>Template <strong>Body</strong></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-15 09:24:41",
+  "updated_at": null,
+  "deleted_at": "2023-05-15 14:43:53"
+},
+{
+  "_id": {
+    "$oid": "64619869708ec65936ba9681"
+  },
+  "title": "testt",
+  "template_design": "<p>test</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-15 09:26:49",
+  "updated_at": null,
+  "deleted_at": "2023-05-15 14:44:27"
+},
+{
+  "_id": {
+    "$oid": "6461e3da708ec65936ba9682"
+  },
+  "title": "Example Template Email",
+  "template_design": "<p><span style=\"color: rgb(0, 0, 0);\">Dear {sales_name},</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Bersama email ini kami informasikan </span><strong style=\"color: rgb(0, 0, 0);\">Price alert untuk Nasabah {Customer_name}:</strong></p><p><br></p><p><strong>&lt; </strong><span style=\"color: rgb(0, 0, 0);\">Produk {product_type} \"{product_name}\" menyentuh harga NAV {rule} {set amount} pada tanggal {date}.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Untuk informasi lebih lanjut dan perubahan setting, dapat melalui WMS Dashboard pada menu Products {link_Dashboard}</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Terima kasih.</span></p><p><span style=\"color: rgb(0, 0, 0);\">CIMB Niaga Wealth Management System</span></p><p><span style=\"color: rgb(0, 0, 0);\">_____________________________________________________________________________</span></p><p><span style=\"color: rgb(0, 0, 0);\">Email ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.</span></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-15 14:48:42",
+  "updated_at": null,
+  "deleted_at": "2023-05-15 14:55:48"
+},
+{
+  "_id": {
+    "$oid": "6462e7079beede7b734bae47"
+  },
+  "title": "Test Template",
+  "template_design": "<p>Test <strong>Template</strong></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 09:14:31",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 11:30:25"
+},
+{
+  "_id": {
+    "$oid": "6462f60f9beede7b734bae49"
+  },
+  "is_active": "yes",
+  "title": "email template ZZ",
+  "template_design": "<p>testing<b>template</b></p>",
+  "is_delete": "yes",
+  "created_at": "2023-05-16 10:18:39",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 10:47:54"
+},
+{
+  "_id": {
+    "$oid": "6462fce49beede7b734bae4a"
+  },
+  "title": "Bell Email",
+  "template_design": "<p><strong style=\"color: rgb(0, 0, 0);\">Price alert untuk Nasabah {Customer_name}</strong><span style=\"color: rgb(0, 0, 0);\">:</span></p><p>{product_type} \"{product_name}\" menyentuh harga NAV {rule} {set amount} pada tanggal {date}.</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 10:47:48",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 13:53:41"
+},
+{
+  "_id": {
+    "$oid": "646305879beede7b734bae4b"
+  },
+  "title": "Email ke Nasabah",
+  "template_design": "<p><span style=\"color: rgb(0, 0, 0);\">Dear Bpk/Ibu {customer_name},</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Bersama ini kami informasikan </span><strong style=\"color: rgb(0, 0, 0);\">Price alert </strong><span style=\"color: rgb(0, 0, 0);\">untuk Produk {product_type} \"</span><strong style=\"color: rgb(0, 0, 0);\">{product_name}</strong><span style=\"color: rgb(0, 0, 0);\">\" menyentuh harga NAV {rule} {set amount} pada tanggal {date}.</span></p><p><br></p><p>Gunakan OCTO Clicks/OCTO Mobile untuk melakukan transaksi reksa dana Anda, atau hubungi Relationship Manager Anda.</p><p><br></p><p>Terima kasih.</p><p>CIMB Niaga Wealth Management System</p><p>_____________________________________________________________________________</p><p>Email ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 11:24:39",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 13:53:35"
+},
+{
+  "_id": {
+    "$oid": "646306499beede7b734bae4c"
+  },
+  "title": "Test Email",
+  "template_design": "<p><strong>Body Email</strong></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 11:27:53",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 11:30:41"
+},
+{
+  "_id": {
+    "$oid": "6463068a9beede7b734bae4d"
+  },
+  "title": "Test",
+  "template_design": "<p>Awikwok</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 11:28:58",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 11:29:25"
+},
+{
+  "_id": {
+    "$oid": "646306b49beede7b734bae4e"
+  },
+  "title": "Test lagi",
+  "template_design": "<p>Body <strong>Test Lagi</strong></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 11:29:40",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 11:30:20"
+},
+{
+  "_id": {
+    "$oid": "646306eb9beede7b734bae4f"
+  },
+  "title": "Check",
+  "template_design": "<p>Test</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 11:30:35",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 13:51:19"
+},
+{
+  "_id": {
+    "$oid": "646328a69beede7b734bae50"
+  },
+  "title": "Test",
+  "template_design": "<p>Testing</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 13:54:30",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 13:55:37"
+},
+{
+  "_id": {
+    "$oid": "646329169beede7b734bae51"
+  },
+  "title": "Testing",
+  "template_design": "<p>Test</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 13:56:22",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 13:56:40"
+},
+{
+  "_id": {
+    "$oid": "646329da9beede7b734bae52"
+  },
+  "title": "Bruakakaka",
+  "template_design": "<p>Testing</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 13:59:38",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 13:59:42"
+},
+{
+  "_id": {
+    "$oid": "646329f39beede7b734bae53"
+  },
+  "title": "Test 1",
+  "template_design": "<p>Desc 1</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 14:00:03",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 14:04:32"
+},
+{
+  "_id": {
+    "$oid": "646329f99beede7b734bae54"
+  },
+  "title": "Test 2",
+  "template_design": "<p>Desc 2</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 14:00:09",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 14:01:33"
+},
+{
+  "_id": {
+    "$oid": "64632b369beede7b734bae55"
+  },
+  "title": "Testing",
+  "template_design": "<p><strong>Bruakakakak Gaming</strong></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 14:05:26",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 14:05:30"
+},
+{
+  "_id": {
+    "$oid": "64632dd59beede7b734bae56"
+  },
+  "title": "Awikwok",
+  "template_design": "<p>Test Email</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-16 14:16:37",
+  "updated_at": null,
+  "deleted_at": "2023-05-16 14:16:40"
+},
+{
+  "_id": {
+    "$oid": "64644649a36708a931e89e94"
+  },
+  "title": "Email ke RM Nav Up",
+  "template_design": "<p><span style=\"color: rgb(0, 0, 0);\">Dear {sales_name},</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Bersama email ini kami informasikan </span><strong style=\"color: rgb(0, 0, 0);\">Price alert untuk Nasabah {Customer_name}:</strong></p><p><br></p><p><strong>&lt; </strong><span style=\"color: rgb(0, 0, 0);\">Produk {product_type} \"{product_name}\" menyentuh harga NAV {rule} {set amount} pada tanggal {date}.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Untuk informasi lebih lanjut dan perubahan setting, dapat melalui WMS Dashboard pada menu Products {link_Dashboard}</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Terima kasih.</span></p><p><span style=\"color: rgb(0, 0, 0);\">CIMB Niaga Wealth Management System</span></p><p><span style=\"color: rgb(0, 0, 0);\">_____________________________________________________________________________</span></p><p><span style=\"color: rgb(0, 0, 0);\">Email ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.</span></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-17 10:13:13",
+  "updated_at": "2023-05-19 14:17:04",
+  "deleted_at": "2023-05-19 14:17:18"
+},
+{
+  "_id": {
+    "$oid": "64644a7aa36708a931e89e95"
+  },
+  "title": "Email ke Nasabah",
+  "template_design": "<p><span style=\"color: rgb(0, 0, 0);\">Dear Bpk/Ibu {customer_name},</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Bersama ini kami informasikan </span><strong style=\"color: rgb(0, 0, 0);\">Price alert </strong><span style=\"color: rgb(0, 0, 0);\">untuk Produk {product_type} \"</span><strong style=\"color: rgb(0, 0, 0);\">{product_name}</strong><span style=\"color: rgb(0, 0, 0);\">\" menyentuh harga NAV {rule} {set amount} pada tanggal {date}.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Gunakan OCTO Clicks/OCTO Mobile untuk melakukan transaksi reksa dana Anda, atau hubungi Relationship Manager Anda.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Terima kasih.</span></p><p><span style=\"color: rgb(0, 0, 0);\">CIMB Niaga Wealth Management System</span></p><p><span style=\"color: rgb(0, 0, 0);\">_____________________________________________________________________________</span></p><p><span style=\"color: rgb(0, 0, 0);\">Email ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.</span></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-17 10:31:06",
+  "updated_at": "2023-05-19 14:35:46",
+  "deleted_at": "2023-05-22 09:37:42"
+},
+{
+  "_id": {
+    "$oid": "64644d48a36708a931e89e96"
+  },
+  "title": "Check Email",
+  "template_design": "<p><span style=\"color: rgb(0, 0, 0);\">Dear {sales_name},</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Bersama email ini kami informasikan </span><strong style=\"color: rgb(0, 0, 0);\">Price alert untuk Nasabah {Customer_name}:</strong></p><p><br></p><p><strong>&lt;</strong><span style=\"color: rgb(0, 0, 0);\">Produk {product_type} \"{product_name}\" menyentuh harga NAV {rule} {set amount} pada tanggal {date}.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Untuk informasi lebih lanjut dan perubahan setting, dapat melalui WMS Dashboard pada menu Products {link_Dashboard}</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Terima kasih.</span></p><p><span style=\"color: rgb(0, 0, 0);\">CIMB Niaga Wealth Management System</span></p><p><span style=\"color: rgb(0, 0, 0);\">_____________________________________________________________________________</span></p><p><span style=\"color: rgb(0, 0, 0);\">Email ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.</span></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-17 10:43:04",
+  "updated_at": "2023-05-17 12:42:45",
+  "deleted_at": "2023-05-22 09:37:39"
+},
+{
+  "_id": {
+    "$oid": "6464600ea36708a931e89e97"
+  },
+  "title": "asd",
+  "template_design": "<p>asd</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-17 12:03:10",
+  "updated_at": null,
+  "deleted_at": "2023-05-17 12:03:12"
+},
+{
+  "_id": {
+    "$oid": "6464687aa36708a931e89e98"
+  },
+  "title": " Updated",
+  "template_design": "<p>&lt;b&gt;Bruakakaka&lt;/b&gt;</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-17 12:39:06",
+  "updated_at": "2023-05-17 12:39:18",
+  "deleted_at": "2023-05-17 12:42:00"
+},
+{
+  "_id": {
+    "$oid": "6464712ba36708a931e89e99"
+  },
+  "title": "Testing Email Updated",
+  "template_design": "<p>Example Body <strong>Email Updated</strong></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-17 13:16:11",
+  "updated_at": "2023-05-17 13:16:23",
+  "deleted_at": "2023-05-17 13:17:57"
+},
+{
+  "_id": {
+    "$oid": "646637643e48c5fe9435f17b"
+  },
+  "title": "acumalaka",
+  "type": "email",
+  "template_message": "<p>testing</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-18 21:34:12",
+  "updated_at": null,
+  "deleted_at": "2023-05-18 21:34:48"
+},
+{
+  "_id": {
+    "$oid": "646645643e48c5fe9435f17f"
+  },
+  "title": "Template Design",
+  "template_design": "<pre class=\"ql-syntax\" spellcheck=\"false\">&lt;span style=\"color: red;\"&gt;test&lt;/span&gt;\n</pre>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-18 22:33:56",
+  "updated_at": "2023-05-18 22:35:02",
+  "deleted_at": "2023-05-18 22:38:37"
+},
+{
+  "_id": {
+    "$oid": "646647be3e48c5fe9435f180"
+  },
+  "title": "Template Email",
+  "template_design": "<p>&lt;button&gt;Hello World&lt;/button&gt;</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-18 22:43:58",
+  "updated_at": null,
+  "deleted_at": "2023-05-22 09:37:46"
+},
+{
+  "_id": {
+    "$oid": "64672261b806f78d97b952cf"
+  },
+  "title": "Email ke RM",
+  "template_design": "<p><span style=\"color: rgb(0, 0, 0);\">Dear {sales_name},</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Bersama email ini kami informasikan </span><strong style=\"color: rgb(0, 0, 0);\">Price alert untuk Nasabah {customer_name}:</strong></p><p><br></p><p><strong>&lt; </strong><span style=\"color: rgb(0, 0, 0);\">Produk {product_type} \"{product_name}\" menyentuh harga NAV {rule} {set amount} pada tanggal {date}</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Untuk informasi lebih lanjut dan perubahan setting, dapat melalui WMS Dashboard pada menu </span><em style=\"color: rgb(0, 0, 0);\">Products </em><span style=\"color: rgb(0, 0, 0);\">{link_Dashboard}</span></p><p><br></p><p>Terima kasih.</p><p>CIMB Niaga Wealth Management System</p><p>____________________________________________________________________</p><p>Email ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.</p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-19 14:16:49",
+  "updated_at": null,
+  "deleted_at": "2023-05-22 09:37:44"
+},
+{
+  "_id": {
+    "$oid": "646776c9b806f78d97b952d1"
+  },
+  "title": "",
+  "template_design": "<p><code>&lt;!-- CONTENT STARTS --&gt;</code></p><p><code>&lt;table align=\"center\" bgcolor=\"#F6F6F6\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"background:url('http://cpm-ext.praisindo.com/img/email_layout/default_header.png') no-repeat;background-size:100% 186px;background-color:#F6F6F6;\"&gt;</code></p><p><code>&nbsp;&nbsp;&lt;tbody&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!--[if mso]&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"800\" style=\"width: 800px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" valign=\"top\" width=\"100%\" style=\"max-width:800px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;![endif]--&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;div style=\"display:inline-block;width:800px;vertical-align:top;\" class=\"width800\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- ID:BG MENU OPTIONAL --&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width\" width=\"100%\" style=\"padding-bottom:5px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;\t</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" class=\"res-padding\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!--[if mso]&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"600\" style=\"width:600px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" valign=\"top\" width=\"600\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;![endif]--&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table align=\"center\" border=\"0\" class=\"display-width-inner\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\"&gt;&nbsp;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td height=\"15\" class=\"height30\" style=\"mso-line-height-rule:exactly; line-height:15px; font-size:0;\"&gt;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"max-width:100%;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table align=\"center\" border=\"0\" class=\"display-width\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-collapse:collapse;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" style=\"border-collapse:collapse; font-size:0;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!--[if mso]&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table&nbsp;aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"100%\" style=\"width:100%;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" valign=\"top\" width=\"150\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;![endif]--&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;div style=\"display:inline-block; max-width:100%; vertical-align:top; width:100%;\" class=\"div-width\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- TABLE LEFT --&gt;\t</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width-child\" width=\"100%\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; max-width:100%;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" style=\"border-collapse:collapse;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table align=\"left\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto !important;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- ID:TXT MENU --&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"left\" style=\"border-collapse:collapse; color:#333333;padding-top:30px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;a href=\"#\" style=\"color:#333333; text-decoration:none;\"&gt;&lt;img src=\"http://cpm-ext.praisindo.com/img/email_logo/cpm.png\" alt=\"CPM\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\"&gt;&lt;/a&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table align=\"right\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto !important;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" style=\"border-collapse:collapse;color:#FFFFFF;padding-top:35px;font-size:18px\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{date}</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" style=\"border-collapse:collapse;padding-top:30px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table bgcolor=\"#FFFFFF\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt;mso-table-rspace:0pt;min-height:100px;border-radius:10px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- ID:TXT MENU --&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td id=\"email-content\" align=\"left\" style=\"border-collapse:collapse; color:#333333;font-size:12px;vertical-align:top;padding:36px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{content}</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!--[if mso]&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;![endif]--&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;\t\t\t</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td height=\"15\" class=\"height30\" style=\"mso-line-height-rule:exactly; line-height:15px; font-size:0;\"&gt;&amp;nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!--[if mso]&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;![endif]--&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;\t</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!--[if mso]&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;![endif]--&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;\t\t\t\t\t</code></p><p><code>&nbsp;&nbsp;&lt;/tbody&gt;\t</code></p><p><code>&lt;/table&gt;</code></p><p><code>&lt;!-- CONTENT ENDS --&gt;</code></p><p><code>&lt;!-- FOOTER STARTS --&gt;</code></p><p><code>&lt;table align=\"center\" bgcolor=\"#F6F6F6\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\"&gt;</code></p><p><code>&nbsp;&nbsp;&lt;tbody&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!--[if mso]&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"800\" style=\"width: 800px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" valign=\"top\" width=\"800\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;![endif]--&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;div style=\"display:inline-block;width:100%;width:800px;vertical-align:top;padding-bottom:30px;\" class=\"width800\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- ID:BG FOOTER OPTIONAL --&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table align=\"center\" bgcolor=\"#ffffff\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width\" width=\"100%\" style=\"border-radius:10px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" class=\"res-padding\" style=\"padding:36px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!--[if mso]&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table&nbsp;aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"600\" style=\"width: 600px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"center\" valign=\"top\" width=\"600\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;![endif]--&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width-inner\" width=\"100%\" style=\"max-width:800px;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td width=\"50%\" align=\"left\" style=\"vertical-align:top;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jl. Taman MPU. Sendok No. 53, RW. 3, Selong, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 2110</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Call Center 021-28369004</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td width=\"50%\" align=\"right\" style=\"vertical-align:top;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table align=\"right\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"50%\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody&gt;&lt;tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td width=\"20\"&gt;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"left\" valign=\"middle\" width=\"35\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;a href=\"https://www.facebook.com/praisindo\" title=\"Facebook\" style=\"color:#666666;text-decoration:none;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;img src=\"http://cpm-ext.praisindo.com/img/email_socmed/facebook.png\" alt=\"Facebook\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/a&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td width=\"20\"&gt;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"left\" valign=\"middle\" width=\"35\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;a href=\"https://twitter.com/praisindo\" title=\"Twitter\" style=\"color:#666666;text-decoration:none;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;img src=\"http://cpm-ext.praisindo.com/img/email_socmed/twitter.png\" alt=\"Twitter\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/a&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td width=\"20\"&gt;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"left\" valign=\"middle\" width=\"35\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;a href=\"https://www.instagram.com/Praisindo_Teknologi\" title=\"Instagram\" style=\"color:#666666;text-decoration:none;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;img src=\"http://cpm-ext.praisindo.com/img/email_socmed/instagram.png\" alt=\"Instagram\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/a&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td width=\"20\"&gt;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td align=\"left\" valign=\"middle\" width=\"35\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;a href=\"https://www.instagram.com/Praisindo_Teknologi\" title=\"Linkedin\" style=\"color:#666666;text-decoration:none;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;img src=\"http://cpm-ext.praisindo.com/img/email_socmed/linkedin.png\" alt=\"Linkedin\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\"&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/a&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!--[if mso]&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;![endif]--&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody&gt;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!--[if mso]&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/table&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;![endif]--&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;</code></p><p><code>&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;</code></p><p><code>&nbsp;&nbsp;&lt;/tbody&gt;</code></p><p><code>&lt;/table&gt;</code></p><p><code>&lt;!-- FOOTER ENDS --&gt;</code></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-19 20:16:57",
+  "updated_at": null,
+  "deleted_at": "2023-05-19 20:17:21"
+},
+{
+  "_id": {
+    "$oid": "646778a8b806f78d97b952d2"
+  },
+  "title": "Testing Title",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-19 20:24:56",
+  "updated_at": null,
+  "deleted_at": "2023-05-19 20:25:10"
+},
+{
+  "_id": {
+    "$oid": "646778b9b806f78d97b952d3"
+  },
+  "title": "",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-19 20:25:13",
+  "updated_at": null,
+  "deleted_at": "2023-05-19 20:25:16"
+},
+{
+  "_id": {
+    "$oid": "646779b6b806f78d97b952d4"
+  },
+  "title": "",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-19 20:29:26",
+  "updated_at": null,
+  "deleted_at": "2023-05-19 20:29:36"
+},
+{
+  "_id": {
+    "$oid": "64677a40b806f78d97b952d5"
+  },
+  "title": "Testting",
+  "template_design": "<p><code>&lt;button&gt;Hello&lt;/button&gt;</code></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-19 20:31:44",
+  "updated_at": "2023-05-19 20:35:05",
+  "deleted_at": "2023-05-19 20:35:10"
+},
+{
+  "_id": {
+    "$oid": "64677bcfb806f78d97b952d6"
+  },
+  "title": "Testing Again",
+  "template_design": "<p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">  &lt;html&gt;</span></p><p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">    &lt;head&gt;</span></p><p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">      &lt;style&gt;</span></p><p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">        /* Gaya email Anda */</span></p><p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">      &lt;/style&gt;</span></p><p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">    &lt;/head&gt;</span></p><p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">    &lt;body&gt;</span></p><p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">      &lt;h1&gt;Selamat datang!&lt;/h1&gt;</span></p><p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">      &lt;p&gt;Ini adalah isi email template.&lt;/p&gt;</span></p><p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">    &lt;/body&gt;</span></p><p><span style=\"background-color: rgb(0, 0, 0); color: rgb(0, 166, 125);\">  &lt;/html&gt;</span></p>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-19 20:38:23",
+  "updated_at": null,
+  "deleted_at": "2023-05-19 20:38:30"
+},
+{
+  "_id": {
+    "$oid": "646a35bcd570e69fee5d286b"
+  },
+  "title": "Test Template Design A Updated",
+  "template_design": "<!-- CONTENT STARTS -->\n<table align=\"center\" bgcolor=\"#F6F6F6\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"background:url('http://cpm-ext.praisindo.com/img/email_layout/default_header.png') no-repeat;background-size:100% 186px;background-color:#F6F6F6;\">\n    <tbody>\n        <tr>\n            <td align=\"center\">\n                <!--[if mso]>\n                <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"800\" style=\"width: 800px;\">\n                    <tr>\n                        <td align=\"center\" valign=\"top\" width=\"100%\" style=\"max-width:800px;\">\n                <![endif]-->\n                <div style=\"display:inline-block;width:800px;vertical-align:top;\" class=\"width800\">\n                    <!-- ID:BG MENU OPTIONAL -->\n                    <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width\" width=\"100%\" style=\"padding-bottom:5px;\">\n                        <tbody>\t\n                            <tr>\n                                <td align=\"center\" class=\"res-padding\">\n                                    <!--[if mso]>\n                                    <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"600\" style=\"width:600px;\">\n                                        <tr>\n                                            <td align=\"center\" valign=\"top\" width=\"600\">\n                                    <![endif]-->\n                                    <table align=\"center\" border=\"0\" class=\"display-width-inner\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\"> \n                                        <tbody><tr>\n                                            <td height=\"15\" class=\"height30\" style=\"mso-line-height-rule:exactly; line-height:15px; font-size:0;\"></td>\n                                        </tr>\n                                        <tr>\n                                            <td align=\"center\">\n                                                <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"max-width:100%;\">\n                                                    <tbody><tr>\n                                                        <td>\n                                                            <table align=\"center\" border=\"0\" class=\"display-width\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-collapse:collapse;\">\n                                                                <tbody><tr>\n                                                                    <td align=\"center\" style=\"border-collapse:collapse; font-size:0;\">\n                                                                        <!--[if mso]>\n                                                                        <table  aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"100%\" style=\"width:100%;\">\n                                                                            <tr>\n                                                                                <td align=\"center\" valign=\"top\" width=\"150\">\n                                                                        <![endif]-->\n                                                                        <div style=\"display:inline-block; max-width:100%; vertical-align:top; width:100%;\" class=\"div-width\">\n                                                                            <!-- TABLE LEFT -->\t\n                                                                            <table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width-child\" width=\"100%\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; max-width:100%;\">\n                                                                                <tbody><tr>\n                                                                                    <td align=\"center\" style=\"border-collapse:collapse;\">\n                                                                                        <table align=\"left\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto !important;\">\n                                                                                            <tbody>\n                                                                                                <tr>\n                                                                                                    <!-- ID:TXT MENU -->\n                                                                                                    <td align=\"left\" style=\"border-collapse:collapse; color:#333333;padding-top:30px;\">\n                                                                                                        <a href=\"#\" style=\"color:#333333; text-decoration:none;\"><img src=\"http://cpm-ext.praisindo.com/img/email_logo/cpm.png\" alt=\"CPM\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\"></a>\n                                                                                                    </td>\n                                                                                                </tr>\n                                                                                            </tbody>\n                                                                                        </table>\n                                                                                        <table align=\"right\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto !important;\">\n                                                                                            <tbody>\n                                                                                                <tr>\n                                                                                                    <td align=\"center\" style=\"border-collapse:collapse;color:#FFFFFF;padding-top:35px;font-size:18px\">\n                                                                                                        {date}\n                                                                                                    </td>\n                                                                                                </tr>\n                                                                                            </tbody>\n                                                                                        </table>\n                                                                                    </td>\n                                                                                </tr>\n                                                                                <tr>\n                                                                                    <td align=\"center\" style=\"border-collapse:collapse;padding-top:30px;\">\n                                                                                        <table bgcolor=\"#FFFFFF\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt;mso-table-rspace:0pt;min-height:100px;border-radius:10px;\">\n                                                                                            <tbody>\n                                                                                                <tr>\n                                                                                                    <!-- ID:TXT MENU -->\n                                                                                                    <td id=\"email-content\" align=\"left\" style=\"border-collapse:collapse; color:#333333;font-size:12px;vertical-align:top;padding:36px;\">\n                                                                                                        {content}\n                                                                                                    </td>\n                                                                                                </tr>\n                                                                                            </tbody>\n                                                                                        </table>\n                                                                                    </td>\n                                                                                </tr>\n                                                                            </tbody></table>\n                                                                        </div>\n                                                                        <!--[if mso]>\n                                                                                </td>\n                                                                            </tr>\n                                                                        </table>\n                                                                        <![endif]-->\n                                                                    </td>\n                                                                </tr>\n                                                            </tbody></table>\n                                                        </td>\n                                                    </tr>\n                                                </tbody></table>\n                                            </td>\t\t\t\n                                        </tr>\n                                        <tr>\n                                            <td height=\"15\" class=\"height30\" style=\"mso-line-height-rule:exactly; line-height:15px; font-size:0;\">&nbsp;</td>\n                                        </tr>\n                                    </tbody></table>\n                                    <!--[if mso]>\n                                            </td>\n                                        </tr>\n                                    </table>\n                                    <![endif]-->\n                                </td>\n                            </tr>\n                        </tbody>\t\n                    </table>\n                </div>\n                <!--[if mso]>\n                        </td>\n                    </tr>\n                </table>\n                <![endif]-->\n            </td>\n        </tr>\t\t\t\t\t\n    </tbody>\t\n</table>\n<!-- CONTENT ENDS -->\n<!-- FOOTER STARTS -->\n<table align=\"center\" bgcolor=\"#F6F6F6\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n    <tbody>\n        <tr>\n            <td align=\"center\">\n                <!--[if mso]>\n                <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"800\" style=\"width: 800px;\">\n                    <tr>\n                        <td align=\"center\" valign=\"top\" width=\"800\">\n                <![endif]-->\n                <div style=\"display:inline-block;width:100%;width:800px;vertical-align:top;padding-bottom:30px;\" class=\"width800\">\n                    <!-- ID:BG FOOTER OPTIONAL -->\n                    <table align=\"center\" bgcolor=\"#ffffff\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width\" width=\"100%\" style=\"border-radius:10px;\">\n                        <tbody><tr>\n                            <td align=\"center\" class=\"res-padding\" style=\"padding:36px;\">\n                                <!--[if mso]>\n                                <table  aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"600\" style=\"width: 600px;\">\n                                    <tr>\n                                        <td align=\"center\" valign=\"top\" width=\"600\">\n                                <![endif]-->\n                                <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width-inner\" width=\"100%\" style=\"max-width:800px;\">\n                                    <tbody><tr>\n                                        <td width=\"50%\" align=\"left\" style=\"vertical-align:top;\">\n                                            Jl. Taman MPU. Sendok No. 53, RW. 3, Selong, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 2110\n                                            Call Center 021-28369004\n                                        </td>\n                                        <td width=\"50%\" align=\"right\" style=\"vertical-align:top;\">\n                                            <table align=\"right\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"50%\">\n                                                <tbody><tr>\n                                                    <td width=\"20\"></td>\n                                                    <td align=\"left\" valign=\"middle\" width=\"35\">\n                                                        <a href=\"https://www.facebook.com/praisindo\" title=\"Facebook\" style=\"color:#666666;text-decoration:none;\">\n                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/facebook.png\" alt=\"Facebook\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">\n                                                        </a>\n                                                    </td>\n                                                    <td width=\"20\"></td>\n                                                    <td align=\"left\" valign=\"middle\" width=\"35\">\n                                                        <a href=\"https://twitter.com/praisindo\" title=\"Twitter\" style=\"color:#666666;text-decoration:none;\">\n                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/twitter.png\" alt=\"Twitter\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">\n                                                        </a>\n                                                    </td>\n                                                    <td width=\"20\"></td>\n                                                    <td align=\"left\" valign=\"middle\" width=\"35\">\n                                                        <a href=\"https://www.instagram.com/Praisindo_Teknologi\" title=\"Instagram\" style=\"color:#666666;text-decoration:none;\">\n                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/instagram.png\" alt=\"Instagram\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">\n                                                        </a>\n                                                    </td>\n                                                    <td width=\"20\"></td>\n                                                    <td align=\"left\" valign=\"middle\" width=\"35\">\n                                                        <a href=\"https://www.instagram.com/Praisindo_Teknologi\" title=\"Linkedin\" style=\"color:#666666;text-decoration:none;\">\n                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/linkedin.png\" alt=\"Linkedin\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">\n                                                        </a>\n                                                    </td>\n                                                </tr>\n                                            </tbody></table>\n                                        </td>\n                                    </tr>\n                                </tbody></table>\n                                <!--[if mso]>\n                                        </td>\n                                    </tr>\n                                </table>\n                                <![endif]-->\n                            </td>\n                        </tr>\n                    </tbody></table>\n                </div>\n                <!--[if mso]>\n                        </td>\n                    </tr>\n                </table>\n                <![endif]-->\n            </td>\n        </tr>\n    </tbody>\n</table>\n<!-- FOOTER ENDS -->",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-21 22:16:12",
+  "updated_at": "2023-05-21 22:20:54",
+  "deleted_at": "2023-05-22 09:37:48"
+},
+{
+  "_id": {
+    "$oid": "646ad6e306c23e705221b87c"
+  },
+  "title": "Default Email",
+  "template_design": "<!-- CONTENT STARTS --><table align=\"center\" bgcolor=\"#F6F6F6\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"background:url('http://cpm-ext.praisindo.com/img/email_layout/default_header.png') no-repeat;background-size:100% 186px;background-color:#F6F6F6;\">    <tbody>        <tr>            <td align=\"center\">                <!--[if mso]>                <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"800\" style=\"width: 800px;\">                    <tr>                        <td align=\"center\" valign=\"top\" width=\"100%\" style=\"max-width:800px;\">                <![endif]-->                <div style=\"display:inline-block;width:800px;vertical-align:top;\" class=\"width800\">                    <!-- ID:BG MENU OPTIONAL -->                    <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width\" width=\"100%\" style=\"padding-bottom:5px;\">                        <tbody>\t                            <tr>                                <td align=\"center\" class=\"res-padding\">                                    <!--[if mso]>                                    <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"600\" style=\"width:600px;\">                                        <tr>                                            <td align=\"center\" valign=\"top\" width=\"600\">                                    <![endif]-->                                    <table align=\"center\" border=\"0\" class=\"display-width-inner\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">                                         <tbody><tr>                                            <td height=\"15\" class=\"height30\" style=\"mso-line-height-rule:exactly; line-height:15px; font-size:0;\"></td>                                        </tr>                                        <tr>                                            <td align=\"center\">                                                <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"max-width:100%;\">                                                    <tbody><tr>                                                        <td>                                                            <table align=\"center\" border=\"0\" class=\"display-width\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-collapse:collapse;\">                                                                <tbody><tr>                                                                    <td align=\"center\" style=\"border-collapse:collapse; font-size:0;\">                                                                        <!--[if mso]>                                                                        <table  aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"100%\" style=\"width:100%;\">                                                                            <tr>                                                                                <td align=\"center\" valign=\"top\" width=\"150\">                                                                        <![endif]-->                                                                        <div style=\"display:inline-block; max-width:100%; vertical-align:top; width:100%;\" class=\"div-width\">                                                                            <!-- TABLE LEFT -->\t                                                                            <table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width-child\" width=\"100%\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; max-width:100%;\">                                                                                <tbody><tr>                                                                                    <td align=\"center\" style=\"border-collapse:collapse;\">                                                                                        <table align=\"left\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto !important;\">                                                                                            <tbody>                                                                                                <tr>                                                                                                    <!-- ID:TXT MENU -->                                                                                                    <td align=\"left\" style=\"border-collapse:collapse; color:#333333;padding-top:30px;\">                                                                                                        <a href=\"#\" style=\"color:#333333; text-decoration:none;\"><img src=\"http://cpm-ext.praisindo.com/img/email_logo/cpm.png\" alt=\"CPM\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\"></a>                                                                                                    </td>                                                                                                </tr>                                                                                            </tbody>                                                                                        </table>                                                                                        <table align=\"right\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto !important;\">                                                                                            <tbody>                                                                                                <tr>                                                                                                    <td align=\"center\" style=\"border-collapse:collapse;color:#FFFFFF;padding-top:35px;font-size:18px\">                                                                                                                                                                                                            </td>                                                                                                </tr>                                                                                            </tbody>                                                                                        </table>                                                                                    </td>                                                                                </tr>                                                                                <tr>                                                                                    <td align=\"center\" style=\"border-collapse:collapse;padding-top:30px;\">                                                                                        <table bgcolor=\"#FFFFFF\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt;mso-table-rspace:0pt;min-height:100px;border-radius:10px;\">                                                                                            <tbody>                                                                                                <tr>                                                                                                    <!-- ID:TXT MENU -->                                                                                                    <td id=\"email-content\" align=\"left\" style=\"border-collapse:collapse; color:#333333;font-size:12px;vertical-align:top;padding:36px;\">                                                                                                        {{email_body}}                                                                                                  </td>                                                                                                </tr>                                                                                            </tbody>                                                                                        </table>                                                                                    </td>                                                                                </tr>                                                                            </tbody></table>                                                                        </div>                                                                        <!--[if mso]>                                                                                </td>                                                                            </tr>                                                                        </table>                                                                        <![endif]-->                                                                    </td>                                                                </tr>                                                            </tbody></table>                                                        </td>                                                    </tr>                                                </tbody></table>                                            </td>\t\t\t                                        </tr>                                        <tr>                                            <td height=\"15\" class=\"height30\" style=\"mso-line-height-rule:exactly; line-height:15px; font-size:0;\">&nbsp;</td>                                        </tr>                                    </tbody></table>                                    <!--[if mso]>                                            </td>                                        </tr>                                    </table>                                    <![endif]-->                                </td>                            </tr>                        </tbody>\t                    </table>                </div>                <!--[if mso]>                        </td>                    </tr>                </table>                <![endif]-->            </td>        </tr>\t\t\t\t\t    </tbody>\t</table><!-- CONTENT ENDS --><!-- FOOTER STARTS --><table align=\"center\" bgcolor=\"#F6F6F6\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">    <tbody>        <tr>            <td align=\"center\">                <!--[if mso]>                <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"800\" style=\"width: 800px;\">                    <tr>                        <td align=\"center\" valign=\"top\" width=\"800\">                <![endif]-->                <div style=\"display:inline-block;width:100%;width:800px;vertical-align:top;padding-bottom:30px;\" class=\"width800\">                    <!-- ID:BG FOOTER OPTIONAL -->                    <table align=\"center\" bgcolor=\"#ffffff\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width\" width=\"100%\" style=\"border-radius:10px;\">                        <tbody><tr>                            <td align=\"center\" class=\"res-padding\" style=\"padding:36px;\">                                <!--[if mso]>                                <table  aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"600\" style=\"width: 600px;\">                                    <tr>                                        <td align=\"center\" valign=\"top\" width=\"600\">                                <![endif]-->                                <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width-inner\" width=\"100%\" style=\"max-width:800px;\">                                    <tbody><tr>                                        <td width=\"50%\" align=\"left\" style=\"vertical-align:top;\">                                            Jl. Taman MPU. Sendok No. 53, RW. 3, Selong, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 2110                                            Call Center 021-28369004                                        </td>                                        <td width=\"50%\" align=\"right\" style=\"vertical-align:top;\">                                            <table align=\"right\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"50%\">                                                <tbody><tr>                                                    <td width=\"20\"></td>                                                    <td align=\"left\" valign=\"middle\" width=\"35\">                                                        <a href=\"https://www.facebook.com/praisindo\" title=\"Facebook\" style=\"color:#666666;text-decoration:none;\">                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/facebook.png\" alt=\"Facebook\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">                                                        </a>                                                    </td>                                                    <td width=\"20\"></td>                                                    <td align=\"left\" valign=\"middle\" width=\"35\">                                                        <a href=\"https://twitter.com/praisindo\" title=\"Twitter\" style=\"color:#666666;text-decoration:none;\">                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/twitter.png\" alt=\"Twitter\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">                                                        </a>                                                    </td>                                                    <td width=\"20\"></td>                                                    <td align=\"left\" valign=\"middle\" width=\"35\">                                                        <a href=\"https://www.instagram.com/Praisindo_Teknologi\" title=\"Instagram\" style=\"color:#666666;text-decoration:none;\">                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/instagram.png\" alt=\"Instagram\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">                                                        </a>                                                    </td>                                                    <td width=\"20\"></td>                                                    <td align=\"left\" valign=\"middle\" width=\"35\">                                                        <a href=\"https://www.instagram.com/Praisindo_Teknologi\" title=\"Linkedin\" style=\"color:#666666;text-decoration:none;\">                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/linkedin.png\" alt=\"Linkedin\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">                                                        </a>                                                    </td>                                                </tr>                                            </tbody></table>                                        </td>                                    </tr>                                </tbody></table>                                <!--[if mso]>                                        </td>                                    </tr>                                </table>                                <![endif]-->                            </td>                        </tr>                    </tbody></table>                </div>                <!--[if mso]>                        </td>                    </tr>                </table>                <![endif]-->            </td>        </tr>    </tbody></table><!-- FOOTER ENDS -->",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-22 09:43:47",
+  "updated_at": "2023-08-22 14:00:15",
+  "deleted_at": "2023-09-07 10:46:01"
+},
+{
+  "_id": {
+    "$oid": "646ae1fe06c23e705221b87d"
+  },
+  "title": "Newsletter",
+  "template_design": "<table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"800\" style=\"width: 800px;\">\n                            <tbody><tr>\n                                <td align=\"center\" valign=\"top\" width=\"100%\" style=\"max-width:800px;\">\n                        <!--[endif]---->\n                        <div style=\"display:inline-block;width:800px;vertical-align:top;\" class=\"width800\">\n                            <!-- ID:BG MENU OPTIONAL -->\n                            <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width\" width=\"100%\" style=\"padding-bottom:5px;\">\n                                <tbody> \n                                    <tr>\n                                        <td align=\"center\" class=\"res-padding\">\n                                            <!--[if mso]>\n                                            <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"600\" style=\"width:600px;\">\n                                                <tr>\n                                                    <td align=\"center\" valign=\"top\" width=\"600\">\n                                            <![endif]-->\n                                            <table align=\"center\" border=\"0\" class=\"display-width-inner\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\"> \n                                                <tbody><tr>\n                                                    <td height=\"15\" class=\"height30\" style=\"mso-line-height-rule:exactly; line-height:15px; font-size:0;\"></td>\n                                                </tr>\n                                                <tr>\n                                                    <td align=\"center\">\n                                                        <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"max-width:100%;\">\n                                                            <tbody><tr>\n                                                                <td>\n                                                                    <table align=\"center\" border=\"0\" class=\"display-width\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-collapse:collapse;\">\n                                                                        <tbody><tr>\n                                                                            <td align=\"center\" style=\"border-collapse:collapse; font-size:0;\">\n                                                                                <!--[if mso]>\n                                                                                <table  aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"100%\" style=\"width:100%;\">\n                                                                                    <tr>\n                                                                                        <td align=\"center\" valign=\"top\" width=\"150\">\n                                                                                <![endif]-->\n                                                                                <div style=\"display:inline-block; max-width:100%; vertical-align:top; width:100%;\" class=\"div-width\">\n                                                                                    <!-- TABLE LEFT --> \n                                                                                    <table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width-child\" width=\"100%\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; max-width:100%;\">\n                                                                                        <tbody><tr>\n                                                                                            <td align=\"center\" style=\"border-collapse:collapse;\">\n                                                                                                <table align=\"left\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse;\">\n                                                                                                    <tbody>\n                                                                                                        <tr>\n                                                                                                            <!-- ID:TXT MENU -->\n                                                                                                            <td align=\"left\" style=\"border-collapse:collapse; color:#333333;padding-top:30px;\">\n                                                                                                                <a href=\"https://praisindo.com/\" style=\"color:#333333; text-decoration:none;\"><img src=\"http://cpm-ext.praisindo.com/img/email_logo/praisindo.png\" alt=\"CPM\" height=\"100\" style=\"margin:0; border:0; padding:0; display:block;\"></a>\n                                                                                                            </td>\n                                                                                                            <td align=\"right\" style=\"border-collapse:collapse;color:#FFFFFF;font-size:18px\">\n                                                                                                                <div style=\"border-right:3px solid #1f9b3b;padding-right:10px\"> \n                                                                                                                    <h4 style=\"color:#1f9b3b; margin:0;\">NewsLetter</h4>\n                                                                                                                    <h4 style=\"color:#707070; margin:0;\">Edisi June 2020</h4>\n                                                                                                                </div>\n                                                                                                            </td>\n                                                                                                        </tr>\n                                                                                                    </tbody>\n                                                                                                </table>\n                                                                                            </td>\n                                                                                        </tr>\n                                                                                        <tr>\n                                                                                            <td align=\"center\" style=\"border-collapse:collapse;padding-top:30px;\">\n                                                                                                <table bgcolor=\"#FFFFFF\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt;mso-table-rspace:0pt;min-height:100px;border-radius:10px;\">\n                                                                                                    <tbody>\n                                                                                                        <tr>\n                                                                                                            <!-- ID:TXT MENU -->\n                                                                                                            <td id=\"email-content\" align=\"left\" style=\"border-collapse:collapse; color:#333333;font-size:12px;vertical-align:top;\">\n                                                                                                                {content}\n                                                                                                            </td>\n                                                                                                        </tr>\n                                                                                                    </tbody>\n                                                                                                </table>\n                                                                                            </td>\n                                                                                        </tr>\n                                                                                    </tbody></table>\n                                                                                </div>\n                                                                                <!--[if mso]>\n                                                                                        </td>\n                                                                                    </tr>\n                                                                                </table>\n                                                                                <![endif]-->\n                                                                            </td>\n                                                                        </tr>\n                                                                    </tbody></table>\n                                                                </td>\n                                                            </tr>\n                                                        </tbody></table>\n                                                    </td>           \n                                                </tr>\n                                                <tr>\n                                                    <td height=\"15\" class=\"height30\" style=\"mso-line-height-rule:exactly; line-height:15px; font-size:0;\">&nbsp;</td>\n                                                </tr>\n                                            </tbody></table>\n                                            <!--[if mso]>\n                                                    </td>\n                                                </tr>\n                                            </table>\n                                            <![endif]-->\n                                        </td>\n                                    </tr>\n                                </tbody>    \n                            </table>\n                        </div>\n                        <!--[if mso]>\n                                </td>\n                            </tr>\n                        </table>\n                        <![endif]-->\n                    \n                                   \n                \n        \n        <!-- CONTENT ENDS -->\n        <!-- FOOTER STARTS -->\n        <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n            <tbody>\n                <tr>\n                    <td align=\"left\">\n                        <!--[if mso]>\n                        <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"800\" style=\"width: 800px;\">\n                            <tr>\n                                <td align=\"center\" valign=\"top\" width=\"800\">\n                        <![endif]-->\n                        <div style=\"display:inline-block;width:100%;width:800px;vertical-align:top;padding-bottom:30px;\" class=\"width800\">\n                            <!-- ID:BG FOOTER OPTIONAL -->\n                            <table align=\"center\" bgcolor=\"#ffffff\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width\" width=\"100%\" style=\"border-radius:10px;\">\n                                <tbody><tr>\n                                    <td align=\"center\" class=\"res-padding\">\n                                        <!--[if mso]>\n                                        <table  aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"600\" style=\"width: 600px;\">\n                                            <tr>\n                                                <td align=\"center\" valign=\"top\" width=\"600\">\n                                        <![endif]-->\n                                        <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width-inner\" width=\"100%\">\n                                            <tbody><tr>\n                                                <td width=\"50%\" align=\"left\" style=\"vertical-align:top;\">\n                                                    <table align=\"left\">\n                                                        <tbody><tr>\n                                                            <td>\n                                                                <img class=\"email-img-location\" src=\"http://cpm-ext.praisindo.com/img/email_news/phone.png\" height=\"10\">\n                                                            </td>\n                                                            <td>\n                                                                <a href=\"callto:+62215265423\">+6221-5265423/24</a>\n                                                            </td>\n                                                        </tr>\n                                                        <tr>\n                                                            <td>    \n                                                               <img class=\"email-img-location\" src=\"http://cpm-ext.praisindo.com/img/email_news/email.png\" height=\"10\">\n                                                            </td>\n                                                            <td>\n                                                                <a href=\"mailto:info@paraisindo.com\" title=\"kirim email ke Admin\">info@paraisindo.com</a>\n                                                            </td>\n                                                        </tr>\n                                                        <tr>\n                                                            <td>\n                                                                <img class=\"email-img-location\" src=\"http://cpm-ext.praisindo.com/img/email_news/web.png\" height=\"10\">\n                                                            </td>\n                                                            <td>\n                                                                <a href=\"https://praisindo.com/\">praisindo.com</a>\n                                                            </td>\n                                                        </tr>\n                                                    </tbody></table>\n                                                </td>\n                                                <td width=\"50%\" align=\"right\" style=\"vertical-align:top;\">\n                                                    <a href=\"https://www.google.com/maps/place/PT+Praisindo+Teknologi/@-6.2324181,106.8128371,15z/data=!4m2!3m1!1s0x0:0x46081b8c76e511a7?sa=X&amp;ved=2ahUKEwi6_MrnvNXpAhUBbn0KHaujDI0Q_BIwE3oECBQQCA\"><img class=\"email-img-location\" src=\"http://cpm-ext.praisindo.com/img/email_news/location.png\" height=\"90\"></a> \n                                                </td>\n                                            </tr>\n                                            <tr>\n                                                <td align=\"center\" style=\"padding-top:20px;\" colspan=\"2\">\n                                                    <table align=\"center\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n                                                        <tbody><tr>\n                                                            <td style=\"padding:2px;\">\n                                                                <a href=\"https://www.instagram.com/Praisindo_Teknologi\"><img class=\"email-img-location\" src=\"http://cpm-ext.praisindo.com/img/email_socmed/ig-circle-gray.png\"></a>\n                                                            </td>\n                                                            <td style=\"padding:2px;\">\n                                                                <a href=\"https://www.linkedin.com/in/praisindo-teknologi-5b736276\"><img class=\"email-img-location\" src=\"http://cpm-ext.praisindo.com/img/email_socmed/in-circle-gray.png\"></a>\n                                                            </td>\n                                                            <td style=\"padding:2px;\">    \n                                                                <a href=\"https://www.facebook.com/praisindo\"><img class=\"email-img-location\" src=\"http://cpm-ext.praisindo.com/img/email_socmed/fb-circle-gray.png\"></a>\n                                                            </td>\n                                                            <td style=\"padding:2px;\">    \n                                                                <a href=\"https://twitter.com/praisindo\"><img class=\"email-img-location\" src=\"http://cpm-ext.praisindo.com/img/email_socmed/tw-circle-gray.png\"></a>\n                                                            </td>\n                                                        </tr>\n                                                    </tbody></table>\n                                                </td>\n                                            </tr>\n                                            <tr>\n                                                <td align=\"center\" style=\"vertical-align:top\" colspan=\"2\">\n                                                    <table align=\"center\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n                                                        <tbody><tr>\n                                                            <td>\n                                                                ©2020 PT Praisindo Teknologi. All Right Reserved.\n                                                            </td>\n                                                        </tr>\n                                                    </tbody></table>\n                                                </td>\n                                            </tr>\n                                        </tbody></table>\n                                        <!--[if mso]>\n                                                </td>\n                                            </tr>\n                                        </table>\n                                        <![endif]-->\n                                    </td>\n                                </tr>\n                            </tbody></table>\n                        </div>\n                        <!--[if mso]>\n                                </td>\n                            </tr>\n                        </table>\n                        <![endif]-->\n                    </td>\n                </tr>\n            </tbody>\n        </table>\n        <!-- FOOTER ENDS --></td></tr></tbody></table>",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-22 10:31:10",
+  "updated_at": null,
+  "deleted_at": "2023-09-07 10:45:49"
+},
+{
+  "_id": {
+    "$oid": "64756310826dc15686f20777"
+  },
+  "title": "News",
+  "template_design": "contoh testing 1",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-05-30 09:44:32",
+  "updated_at": "2023-05-30 09:44:51",
+  "deleted_at": "2023-05-30 09:44:56"
+},
+{
+  "_id": {
+    "$oid": "6482a1a4d5e811b364f384d0"
+  },
+  "title": "testing",
+  "template_design": "example",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-06-09 10:51:00",
+  "updated_at": "2023-06-09 10:51:08",
+  "deleted_at": "2023-06-09 10:51:21"
+},
+{
+  "_id": {
+    "$oid": "64b608b98f11d8e16e6d5af0"
+  },
+  "title": "NAV Down ke RM",
+  "template_design": "Dear {{sales_name}},\n\nBersama email ini kami informasikan Price alert untuk Nasabah {{Customer_name}}: \n\n< Produk {{product_type}} \"\"{{product_name}}\"\" menyentuh harga NAV {{rule}} {{set amount}} pada tanggal {{date}}.\n\nUntuk informasi lebih lanjut dan perubahan setting, dapat melalui WMS Dashboard pada menu Products {{link_Dashboard}}\n\nTerima kasih. \nCIMB Niaga Wealth Management System\n_____________________________________________________________________________\nEmail ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.\n",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-07-18 10:36:25",
+  "updated_at": null,
+  "deleted_at": "2023-07-18 11:06:25"
+},
+{
+  "_id": {
+    "$oid": "64b6099a8f11d8e16e6d5af9"
+  },
+  "title": "NAV Down ke Customer",
+  "template_design": "Dear Bpk/Ibu {{customer_name}},\n\nBersama ini kami informasikan Price alert untuk Produk {{product_type}} \"{{product_name}}\" menyentuh harga NAV {{rule}} {{set amount}} pada tanggal {{date}}.\n\nGunakan OCTO Clicks/OCTO Mobile untuk melakukan transaksi reksa dana Anda, atau hubungi Relationship Manager Anda.\n\nTerima kasih. \nCIMB Niaga Wealth Management System\n_____________________________________________________________________________\nEmail ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-07-18 10:40:10",
+  "updated_at": null,
+  "deleted_at": "2023-07-18 11:06:28"
+},
+{
+  "_id": {
+    "$oid": "64b60a9d8f11d8e16e6d5b01"
+  },
+  "title": "NAV Up ke RM",
+  "template_design": "Dear {{sales_name}},\n\nBersama email ini kami informasikan Price alert untuk Nasabah {{customer_name}}: \n\n< Produk {{product_type}} \"{{product_name}}\" menyentuh harga NAV {{rule}} {{set amount}} pada tanggal {{date}}\n\nUntuk informasi lebih lanjut dan perubahan setting, dapat melalui WMS Dashboard pada menu Products {{link_Dashboard}}\n\nTerima kasih. \nCIMB Niaga Wealth Management System\n____________________________________________________________________\nEmail ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-07-18 10:44:29",
+  "updated_at": null,
+  "deleted_at": "2023-07-18 11:06:20"
+},
+{
+  "_id": {
+    "$oid": "64b60c568f11d8e16e6d5b04"
+  },
+  "title": "NAV Up ke Customer",
+  "template_design": "Dear Bpk/Ibu {{customer_name}},\n\nBersama ini kami informasikan Price alert untuk Produk {{product_type}} \"{{product_name}}\" menyentuh harga NAV {{rule}} {{set amount}} pada tanggal {{date}}.\n\nGunakan OCTO Clicks/OCTO Mobile untuk melakukan transaksi reksa dana Anda, atau hubungi Relationship Manager Anda.\n\nTerima kasih. \nCIMB Niaga Wealth Management System\n________________________________________________________________________\nEmail ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-07-18 10:51:50",
+  "updated_at": null,
+  "deleted_at": "2023-07-18 11:06:22"
+},
+{
+  "_id": {
+    "$oid": "64b60d858f11d8e16e6d5b05"
+  },
+  "title": "Pending Update ke BM & RM",
+  "template_design": "Dear {{sales_name}},\n\nBersama email ini kami informasikan {{cust_pending_count}} nama Nasabah dengan Status Pending Update di WMS pada tanggal {{date}}:\n\n1. {{cif}} - {{customer_name}}\n2. {{cif}} - {{customer_name}}\n3. {{cif}} - {{customer_name}}\n4. {{cif}} - {{customer_name}}\n5. {{cif}} - {{customer_name}}\n6. {{cif}} - {{customer_name}}\n7. {{cif}} - {{customer_name}}\n8. {{cif}} - {{customer_name}}\n9. {{cif}} - {{customer_name}}\n10. {{cif}} - {{customer_name}}\n11. {{cif}} - {{customer_name}}\n12. {{cif}} - {{customer_name}}\n\nMohon agar dapat dilakukan tindaklanjut dan pengecekan.\n\nTerima kasih. \nCIMB Niaga Wealth Management System\n_________________________________________________________________________\nEmail ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-07-18 10:56:53",
+  "updated_at": null,
+  "deleted_at": "2023-07-18 11:06:17"
+},
+{
+  "_id": {
+    "$oid": "64b60e518f11d8e16e6d5b06"
+  },
+  "title": "Summary Reporting ke BM",
+  "template_design": "Dear {{bm_name}},\n\nTerdapat {{branch_total_trx}} total transaksi Reksa Dana dan Obligasi dari cabang {{branch_name}} ({{branch_code}}) pada bulan {{start_month}} s/d bulan {{end_month}}, dengan total fee income {{total_branch_fee}}. Top 10 Sales:\n\n1. {{sales code}} - {{sales_name}} - {{trx_count}} trx - {{sales_fee}}\n2. {{sales code}} - {{sales_name}} - {{trx_count}} trx - {{sales_fee}}\n3. {{sales code}} - {{sales_name}} - {{trx_count}} trx - {{sales_fee}}\n4. {{sales code}} - {{sales_name}} - {{trx_count}} trx - {{sales_fee}}\n5. {{sales code}} - {{sales_name}} - {{trx_count}} trx - {{sales_fee}}\n6. {{sales code}} - {{sales_name}} - {{trx_count}} trx - {{sales_fee}}\n7. {{sales code}} - {{sales_name}} - {{trx_count}} trx - {{sales_fee}}\n8. {{sales code}} - {{sales_name}} - {{trx_count}} trx - {{sales_fee}}\n9. {{sales code}} - {{sales_name}} - {{trx_count}} trx - {{sales_fee}}\n10. {{sales code}} - {{sales_name}} - {{trx_count}} trx - {{sales_fee}}\n\nUntuk informasi lebih lanjut dapat dilihat di menu Branches.\n{{link_dashboard}}",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-07-18 11:00:17",
+  "updated_at": null,
+  "deleted_at": "2023-07-18 11:06:14"
+},
+{
+  "_id": {
+    "$oid": "64c0907e33cd00223cfee77a"
+  },
+  "title": "cek email content",
+  "template_design": "news edit",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-07-26 10:18:22",
+  "updated_at": "2023-07-26 10:27:50",
+  "deleted_at": "2023-07-26 10:43:31"
+},
+{
+  "_id": {
+    "$oid": "64c096e833cd00223cfee77b"
+  },
+  "title": "cek content email 1",
+  "template_design": "news testing",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-07-26 10:45:44",
+  "updated_at": "2023-07-26 10:53:10",
+  "deleted_at": "2023-07-26 10:54:26"
+},
+{
+  "_id": {
+    "$oid": "64c0c25f33cd00223cfee77c"
+  },
+  "title": "cek",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-07-26 13:51:11",
+  "updated_at": "2023-07-26 13:51:18",
+  "deleted_at": "2023-07-26 13:51:33"
+},
+{
+  "_id": {
+    "$oid": "64c0c2e833cd00223cfee77d"
+  },
+  "title": "cek ",
+  "template_design": "news",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-07-26 13:53:28",
+  "updated_at": "2023-07-26 13:58:22",
+  "deleted_at": "2023-07-26 15:09:43"
+},
+{
+  "_id": {
+    "$oid": "64c8ae3363b50f82fafa65c4"
+  },
+  "title": "testing",
+  "template_design": "testing",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-01 14:03:15",
+  "updated_at": "2023-08-01 14:06:13",
+  "deleted_at": "2023-08-01 14:09:21"
+},
+{
+  "_id": {
+    "$oid": "64c8afbf63b50f82fafa65c7"
+  },
+  "title": "test",
+  "template_design": "testing tes",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-01 14:09:51",
+  "updated_at": "2023-08-01 14:10:19",
+  "deleted_at": "2023-08-03 16:30:39"
+},
+{
+  "_id": {
+    "$oid": "64d3497e29f31d0b2ed7f40f"
+  },
+  "title": "Content Email Edit",
+  "template_design": "<!-- CONTENT STARTS --><table align=\"center\" bgcolor=\"#F6F6F6\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"background:url('http://cpm-ext.praisindo.com/img/email_layout/default_header.png') no-repeat;background-size:100% 186px;background-color:#F6F6F6;\">    <tbody>        <tr>            <td align=\"center\">                <!--[if mso]>                <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"800\" style=\"width: 800px;\">                    <tr>                        <td align=\"center\" valign=\"top\" width=\"100%\" style=\"max-width:800px;\">                <![endif]-->                <div style=\"display:inline-block;width:800px;vertical-align:top;\" class=\"width800\">                    <!-- ID:BG MENU OPTIONAL -->                    <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width\" width=\"100%\" style=\"padding-bottom:5px;\">                        <tbody>\t                            <tr>                                <td align=\"center\" class=\"res-padding\">                                    <!--[if mso]>                                    <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"600\" style=\"width:600px;\">                                        <tr>                                            <td align=\"center\" valign=\"top\" width=\"600\">                                    <![endif]-->                                    <table align=\"center\" border=\"0\" class=\"display-width-inner\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">                                         <tbody><tr>                                            <td height=\"15\" class=\"height30\" style=\"mso-line-height-rule:exactly; line-height:15px; font-size:0;\"></td>                                        </tr>                                        <tr>                                            <td align=\"center\">                                                <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"max-width:100%;\">                                                    <tbody><tr>                                                        <td>                                                            <table align=\"center\" border=\"0\" class=\"display-width\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-collapse:collapse;\">                                                                <tbody><tr>                                                                    <td align=\"center\" style=\"border-collapse:collapse; font-size:0;\">                                                                        <!--[if mso]>                                                                        <table  aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"100%\" style=\"width:100%;\">                                                                            <tr>                                                                                <td align=\"center\" valign=\"top\" width=\"150\">                                                                        <![endif]-->                                                                        <div style=\"display:inline-block; max-width:100%; vertical-align:top; width:100%;\" class=\"div-width\">                                                                            <!-- TABLE LEFT -->\t                                                                            <table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width-child\" width=\"100%\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; max-width:100%;\">                                                                                <tbody><tr>                                                                                    <td align=\"center\" style=\"border-collapse:collapse;\">                                                                                        <table align=\"left\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto !important;\">                                                                                            <tbody>                                                                                                <tr>                                                                                                    <!-- ID:TXT MENU -->                                                                                                    <td align=\"left\" style=\"border-collapse:collapse; color:#333333;padding-top:30px;\">                                                                                                        <a href=\"#\" style=\"color:#333333; text-decoration:none;\"><img src=\"http://cpm-ext.praisindo.com/img/email_logo/cpm.png\" alt=\"CPM\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\"></a>                                                                                                    </td>                                                                                                </tr>                                                                                            </tbody>                                                                                        </table>                                                                                        <table align=\"right\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto !important;\">                                                                                            <tbody>                                                                                                <tr>                                                                                                    <td align=\"center\" style=\"border-collapse:collapse;color:#FFFFFF;padding-top:35px;font-size:18px\">                                                                                                                                                                                                            </td>                                                                                                </tr>                                                                                            </tbody>                                                                                        </table>                                                                                    </td>                                                                                </tr>                                                                                <tr>                                                                                    <td align=\"center\" style=\"border-collapse:collapse;padding-top:30px;\">                                                                                        <table bgcolor=\"#FFFFFF\" border=\"0\" cellpadding=\"0\" width=\"100%\" cellspacing=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt;mso-table-rspace:0pt;min-height:100px;border-radius:10px;\">                                                                                            <tbody>                                                                                                <tr>                                                                                                    <!-- ID:TXT MENU -->                                                                                                    <td id=\"email-content\" align=\"left\" style=\"border-collapse:collapse; color:#333333;font-size:12px;vertical-align:top;padding:36px;\">                                                                                                        {{email_body}}                                                                                                  </td>                                                                                                </tr>                                                                                            </tbody>                                                                                        </table>                                                                                    </td>                                                                                </tr>                                                                            </tbody></table>                                                                        </div>                                                                        <!--[if mso]>                                                                                </td>                                                                            </tr>                                                                        </table>                                                                        <![endif]-->                                                                    </td>                                                                </tr>                                                            </tbody></table>                                                        </td>                                                    </tr>                                                </tbody></table>                                            </td>\t\t\t                                        </tr>                                        <tr>                                            <td height=\"15\" class=\"height30\" style=\"mso-line-height-rule:exactly; line-height:15px; font-size:0;\">&nbsp;</td>                                        </tr>                                    </tbody></table>                                    <!--[if mso]>                                            </td>                                        </tr>                                    </table>                                    <![endif]-->                                </td>                            </tr>                        </tbody>\t                    </table>                </div>                <!--[if mso]>                        </td>                    </tr>                </table>                <![endif]-->            </td>        </tr>\t\t\t\t\t    </tbody>\t</table><!-- CONTENT ENDS --><!-- FOOTER STARTS --><table align=\"center\" bgcolor=\"#F6F6F6\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">    <tbody>        <tr>            <td align=\"center\">                <!--[if mso]>                <table aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"800\" style=\"width: 800px;\">                    <tr>                        <td align=\"center\" valign=\"top\" width=\"800\">                <![endif]-->                <div style=\"display:inline-block;width:100%;width:800px;vertical-align:top;padding-bottom:30px;\" class=\"width800\">                    <!-- ID:BG FOOTER OPTIONAL -->                    <table align=\"center\" bgcolor=\"#ffffff\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width\" width=\"100%\" style=\"border-radius:10px;\">                        <tbody><tr>                            <td align=\"center\" class=\"res-padding\" style=\"padding:36px;\">                                <!--[if mso]>                                <table  aria-hidden=\"true\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" width=\"600\" style=\"width: 600px;\">                                    <tr>                                        <td align=\"center\" valign=\"top\" width=\"600\">                                <![endif]-->                                <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"display-width-inner\" width=\"100%\" style=\"max-width:800px;\">                                    <tbody><tr>                                        <td width=\"50%\" align=\"left\" style=\"vertical-align:top;\">                                            Jl. Taman MPU. Sendok No. 53, RW. 3, Selong, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 2110                                            Call Center 021-28369004                                        </td>                                        <td width=\"50%\" align=\"right\" style=\"vertical-align:top;\">                                            <table align=\"right\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"50%\">                                                <tbody><tr>                                                    <td width=\"20\"></td>                                                    <td align=\"left\" valign=\"middle\" width=\"35\">                                                        <a href=\"https://www.facebook.com/praisindo\" title=\"Facebook\" style=\"color:#666666;text-decoration:none;\">                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/facebook.png\" alt=\"Facebook\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">                                                        </a>                                                    </td>                                                    <td width=\"20\"></td>                                                    <td align=\"left\" valign=\"middle\" width=\"35\">                                                        <a href=\"https://twitter.com/praisindo\" title=\"Twitter\" style=\"color:#666666;text-decoration:none;\">                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/twitter.png\" alt=\"Twitter\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">                                                        </a>                                                    </td>                                                    <td width=\"20\"></td>                                                    <td align=\"left\" valign=\"middle\" width=\"35\">                                                        <a href=\"https://www.instagram.com/Praisindo_Teknologi\" title=\"Instagram\" style=\"color:#666666;text-decoration:none;\">                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/instagram.png\" alt=\"Instagram\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">                                                        </a>                                                    </td>                                                    <td width=\"20\"></td>                                                    <td align=\"left\" valign=\"middle\" width=\"35\">                                                        <a href=\"https://www.instagram.com/Praisindo_Teknologi\" title=\"Linkedin\" style=\"color:#666666;text-decoration:none;\">                                                            <img src=\"http://cpm-ext.praisindo.com/img/email_socmed/linkedin.png\" alt=\"Linkedin\" width=\"35\" height=\"35\" style=\"margin:0; border:0; padding:0; display:block;\">                                                        </a>                                                    </td>                                                </tr>                                            </tbody></table>                                        </td>                                    </tr>                                </tbody></table>                                <!--[if mso]>                                        </td>                                    </tr>                                </table>                                <![endif]-->                            </td>                        </tr>                    </tbody></table>                </div>                <!--[if mso]>                        </td>                    </tr>                </table>                <![endif]-->            </td>        </tr>    </tbody></table><!-- FOOTER ENDS -->",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-09 15:08:30",
+  "updated_at": "2023-08-09 15:42:34",
+  "deleted_at": "2023-08-09 15:58:01"
+},
+{
+  "_id": {
+    "$oid": "64d34fbb29f31d0b2ed7f410"
+  },
+  "title": "Content Email Cek",
+  "template_design": "template email",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-09 15:35:07",
+  "updated_at": null,
+  "deleted_at": "2023-08-09 15:48:35"
+},
+{
+  "_id": {
+    "$oid": "64d4489560549904336bb036"
+  },
+  "title": "",
+  "template_design": "",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-10 09:16:53",
+  "updated_at": "2023-08-15 11:51:25",
+  "deleted_at": "2023-08-15 13:08:37"
+},
+{
+  "_id": {
+    "$oid": "64db030b811051f0d8c05953"
+  },
+  "title": "",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-15 11:46:03",
+  "updated_at": null,
+  "deleted_at": "2023-08-15 11:46:13"
+},
+{
+  "_id": {
+    "$oid": "64db0365811051f0d8c05954"
+  },
+  "title": "",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-15 11:47:33",
+  "updated_at": null,
+  "deleted_at": "2023-08-15 11:47:36"
+},
+{
+  "_id": {
+    "$oid": "64db2048811051f0d8c05955"
+  },
+  "title": "test 1 update",
+  "template_design": "email content",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-15 13:50:48",
+  "updated_at": "2023-09-07 09:40:55",
+  "deleted_at": "2023-09-07 10:45:45"
+},
+{
+  "_id": {
+    "$oid": "64db271e811051f0d8c05956"
+  },
+  "title": "",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-15 14:19:58",
+  "updated_at": null,
+  "deleted_at": "2023-08-15 14:20:04"
+},
+{
+  "_id": {
+    "$oid": "64dc45a9e86ceafd43939a6e"
+  },
+  "title": "",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:42:33",
+  "updated_at": null,
+  "deleted_at": "2023-08-16 10:49:50"
+},
+{
+  "_id": {
+    "$oid": "64dc4757e86ceafd43939a6f"
+  },
+  "title": "",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:49:43",
+  "updated_at": null,
+  "deleted_at": "2023-08-16 10:49:55"
+},
+{
+  "_id": {
+    "$oid": "64dc476be86ceafd43939a70"
+  },
+  "title": "test content 1 ",
+  "template_design": "test content 1 ",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:50:03",
+  "updated_at": null,
+  "deleted_at": "2023-09-07 10:45:42"
+},
+{
+  "_id": {
+    "$oid": "64dc4774e86ceafd43939a71"
+  },
+  "title": "test content 2",
+  "template_design": "test content 2",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:50:12",
+  "updated_at": null,
+  "deleted_at": "2023-09-07 10:45:40"
+},
+{
+  "_id": {
+    "$oid": "64dc478be86ceafd43939a72"
+  },
+  "title": "test content 3",
+  "template_design": "test content 3",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:50:35",
+  "updated_at": null,
+  "deleted_at": "2023-09-07 10:45:37"
+},
+{
+  "_id": {
+    "$oid": "64dc4791e86ceafd43939a73"
+  },
+  "title": "test content 4",
+  "template_design": "test content 4",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:50:41",
+  "updated_at": null,
+  "deleted_at": "2023-09-07 10:45:34"
+},
+{
+  "_id": {
+    "$oid": "64dc479be86ceafd43939a74"
+  },
+  "title": "test content 5",
+  "template_design": "test content 5",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:50:51",
+  "updated_at": null,
+  "deleted_at": "2023-09-07 10:44:42"
+},
+{
+  "_id": {
+    "$oid": "64dc47a3e86ceafd43939a75"
+  },
+  "title": "test content 6",
+  "template_design": "test content 6",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:50:59",
+  "updated_at": null,
+  "deleted_at": "2023-09-07 10:44:28"
+},
+{
+  "_id": {
+    "$oid": "64dc47aae86ceafd43939a76"
+  },
+  "title": "test content 7",
+  "template_design": "test content 7",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:51:06",
+  "updated_at": null,
+  "deleted_at": "2023-09-07 10:44:31"
+},
+{
+  "_id": {
+    "$oid": "64dc47b4e86ceafd43939a77"
+  },
+  "title": "test content 8",
+  "template_design": "test content 8",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:51:16",
+  "updated_at": null,
+  "deleted_at": "2023-09-07 10:44:36"
+},
+{
+  "_id": {
+    "$oid": "64dc47bde86ceafd43939a78"
+  },
+  "title": "test content 9",
+  "template_design": "test content 9",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-16 10:51:25",
+  "updated_at": null,
+  "deleted_at": "2023-09-07 10:44:39"
+},
+{
+  "_id": {
+    "$oid": "64e08be68f614753afd2d5b8"
+  },
+  "title": "",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-08-19 16:31:18",
+  "updated_at": null,
+  "deleted_at": "2023-08-19 16:34:07"
+},
+{
+  "_id": {
+    "$oid": "64e438ad0e4150603137963f"
+  },
+  "title": "Default 1",
+  "template_design": "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"x-apple-disable-message-reformatting\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<title></title>\n<style type=\"text/css\">\n  @media only screen and (min-width: 620px) {\n    .u-row {\n      width: 600px !important;\n    }\n\n    .u-row .u-col {\n      vertical-align: top;\n    }\n\n    .u-row .u-col-33p33 {\n      width: 199.98px !important;\n    }\n\n    .u-row .u-col-66p67 {\n      width: 400.02px !important;\n    }\n\n    .u-row .u-col-100 {\n      width: 600px !important;\n    }\n  }\n\n  @media (max-width: 620px) {\n    .u-row-container {\n      max-width: 100% !important;\n      padding-left: 0px !important;\n      padding-right: 0px !important;\n    }\n\n    .u-row .u-col {\n      min-width: 320px !important;\n      max-width: 100% !important;\n      display: block !important;\n    }\n\n    .u-row {\n      width: calc(100% - 40px) !important;\n    }\n\n    .u-col {\n      width: 100% !important;\n    }\n\n    .u-col>div {\n      margin: 0 auto;\n    }\n  }\n\n  body {\n    margin: 0;\n    padding: 0;\n  }\n\n  table,\n  tr,\n  td {\n    vertical-align: top;\n    border-collapse: collapse;\n  }\n\n  p {\n    margin: 0;\n  }\n\n  .ie-container table,\n  .mso-container table {\n    table-layout: fixed;\n  }\n\n  * {\n    line-height: inherit;\n  }\n\n  a[x-apple-data-detectors='true'] {\n    color: inherit !important;\n    text-decoration: none !important;\n  }\n\n  @media (max-width: 480px) {\n    .hide-mobile {\n      max-height: 0px;\n      overflow: hidden;\n      display: none !important;\n    }\n  }\n\n  table,\n  td {\n    color: #FFFFFF;\n  }\n\n  #u_body a {\n    color: #fsfsfs;\n    text-decoration: none;\n  }\n\n  @media (max-width: 480px) {\n    #u_content_image_1 .v-src-width {\n      width: auto !important;\n    }\n\n    #u_content_image_1 .v-src-max-width {\n      max-width: 50% !important;\n    }\n  }\n</style>\n<link href=\"https://fonts.googleapis.com/css?family=Open+Sans:400,700\" rel=\"stylesheet\" type=\"text/css\">\n<table id=\"u_body\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: transparent;width:100%\" cellpadding=\"0\" cellspacing=\"0\">\n  <tbody>\n    <tr style=\"vertical-align: top\">\n      <td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\">\n\n        <div class=\"u-row-container\" style=\"padding: 0px;\">\n          <div class=\"u-row\" style=\"Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #fsfsfs;\">\n            <div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n              <div class=\"u-col u-col-33p33\" style=\"max-width: 320px;min-width: 200px;display: table-cell;vertical-align: top;\">\n                <div style=\"height: 100%;width: 100% !important;\">\n                  <div style=\"height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\">\n                    <table id=\"u_content_image_1\" style=\"font-family:'Open Sans',sans-serif;\" role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" border=\"0\">\n                      <tbody>\n                        <tr>\n                          <td style=\"overflow-wrap:break-word;word-break:break-word;padding:31px 10px 29px;font-family:'Open Sans',sans-serif;\" align=\"left\">\n                            <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n                              <tbody>\n                                <tr>\n                                  <td style=\"padding-right: 0px;padding-left: 0px;\" align=\"center\">\n                                    <img align=\"middle\" border=\"0\" src=\"https://cpm-poc.praisindo.com/bsi/CPM_Assets/public/img/socmed/7_3c4cebf99676ca935fc1a619224452f2.png\" alt=\"Image\" title=\"Image\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;\" class=\"v-src-width v-src-max-width\">\n                                  </td>\n                                </tr>\n                              </tbody>\n                            </table>\n                          </td>\n                        </tr>\n                      </tbody>\n                    </table>\n                    </div>\n                  </div>\n              </div>\n              <div class=\"u-col u-col-66p67\" style=\"max-width: 320px;min-width: 400px;display: table-cell;vertical-align: top;\">\n                <div style=\"height: 100%;width: 100% !important;\">\n                  <div style=\"height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\">\n                    <table class=\"hide-mobile\" style=\"font-family:'Open Sans',sans-serif;\" role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" border=\"0\">\n                      <tbody>\n                        <tr>\n                          <td style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;\" align=\"left\">\n                            <table height=\"0px\" align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #F52EC;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n                              <tbody>\n                                <tr style=\"vertical-align: top\">\n                                  <td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n                                    <span>&nbsp;</span>\n                                  </td>\n                                </tr>\n                              </tbody>\n                            </table>\n                          </td>\n                        </tr>\n                      </tbody>\n                    </table>\n                  </div>\n                </div>\n              </div>\n              </div>\n          </div>\n        </div>\n        <div class=\"u-row-container\" style=\"padding: 0px;background-color: transparent\">\n          <div class=\"u-row\" style=\"Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;\">\n            <div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n                <div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n                <div style=\"height: 100%;width: 100% !important;\">\n                <div style=\"height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\">\n                    <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n                      <tbody>\n                        <tr>\n                          <td style=\"padding-right: 0px;padding-left: 0px;\" align=\"center\"></td>\n                          <td id=\"email-content\" style=\"border-collapse:collapse; color:#333333;font-size:14px;vertical-align:top;padding:36px;\" align=\"left\"> {{email_body}}</td>\n                        </tr>\n                      </tbody>\n                    </table>\n                    <table style=\"font-family:'Open Sans',sans-serif;\" role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" border=\"0\">\n                      <tbody>\n                        <tr>\n                          <td style=\"overflow-wrap: break-word; word-break: break-word; padding: 2px 40px 25px;\" align=\"left\">\n                            <div style=\"line-height: 170%; text-align: left; overflow-wrap: break-word;\">\n                              <p style=\"color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; line-height: 170%; text-align: left;\">\n                                <span style=\"font-size: 14px; line-height: 20.4px;\"></span>\n                              </p>\n                              <p style=\"line-height: 170%;\"><br></p>\n                              <p style=\"line-height: 170%;\">\n                                <font color=\"#000000\">\n                                  <i>\n                                    <span style=\"background-color: transparent; font-size: 14px;\"></span>\n                                  </i>\n                                </font>\n                              </p>\n                              <p style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px;\">Terima kasih.</p><p style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px;\"><b>CIMB Niaga Wealth Management System</b></p><p style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px;\">______________________________<wbr>______________________________<wbr>_____</p><p style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px;\">Email ini dikirimkan secara otomatis. Mohon untuk tidak membalas email ini.&nbsp;Untuk informasi lebih lanjut, hubungi 14041 atau kunjungi cabang CIMB Niaga terdekat.</p></div></td></tr></tbody></table>\n                </div>\n                </div>\n              </div>\n              </div>\n          </div>\n        </div>\n        <div class=\"u-row-container\" style=\"padding: 0px;background-color: transparent\">\n          <div class=\"u-row\" style=\"Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;\">\n            <div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n              <div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n                <div style=\"height: 100%;width: 100% !important;\">\n                  <div style=\"height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\">\n                    <table style=\"font-family:'Open Sans',sans-serif;\" role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" border=\"0\">\n                      <tbody>\n                        <tr>\n                          <td style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:'Open Sans',sans-serif;\" align=\"left\">\n                            <table height=\"0px\" align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"90%\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n                              <tbody>\n                                <tr style=\"vertical-align: top\">\n                                  <td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n                                    <span>&nbsp;</span>\n                                  </td>\n                                </tr>\n                              </tbody>\n                            </table>\n                          </td>\n                        </tr>\n                      </tbody>\n                    </table>\n                  </div>\n                </div>\n              </div>\n              </div>\n          </div>\n        </div>\n        <div class=\"u-row-container\" style=\"padding: 0px;background-color: transparent\">\n          <div class=\"u-row\" style=\"Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;\">\n            <div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n                <div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n                <div style=\"background-color: #ffffff;height: 100%;width: 100% !important;\">\n                  <div style=\"height: 100%; padding: 0px 30px 30px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\">\n                    <table style=\"font-family:'Open Sans',sans-serif;\" role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" border=\"0\"><tbody><tr><td style=\"overflow-wrap: break-word; word-break: break-word; padding: 10px;\" align=\"left\"><div style=\"line-height: 140%; text-align: left; overflow-wrap: break-word;\"><p style=\"line-height: 140%;\"><span style=\"color: rgb(0, 0, 0); font-size: 14px;\"><b><br></b></span></p><p style=\"line-height: 140%;\"><font color=\"#000000\"><span style=\"font-size: 14px;\"><b>CIMB Niaga</b></span></font></p><p style=\"line-height: 140%;\"><font color=\"#000000\"><span style=\"font-size: 14px;\">Graha CIMB Niaga&nbsp;</span></font></p><p style=\"line-height: 140%;\"><font color=\"#000000\"><span style=\"font-size: 14px;\">Jl. Jend Sudirman Kav.58</span></font></p><p style=\"line-height: 140%;\"><font color=\"#000000\"><span style=\"font-size: 14px;\">Jakarta 12190, Indonesia</span></font></p>\n                              <p style=\"line-height: 140%;\">\n                                <span style=\"color: rgb(0, 0, 0); font-size: 14px;\">\n                                  <b>\n                                    <br>\n                                  </b>\n                                </span>\n                              </p>\n                              <p style=\"line-height: 140%;\">\n                                <font color=\"#000000\">\n                                  <span style=\"font-size: 14px;\"><b>Telp:&nbsp;</b>(+62-21) 250 5252, 250 5353</span></font></p><p style=\"line-height: 140%;\"><span style=\"font-weight: bolder; color: rgb(0, 0, 0); font-size: 14px;\">Fax:&nbsp;</span><span style=\"color: rgb(0, 0, 0); font-size: 14px;\">(+62-21) 250 5205</span><br></p><p style=\"line-height: 140%;\"><font color=\"#000000\"><span style=\"font-size: 14px;\"><b>Web:</b> www.cimbniaga.co.id</span></font></p>\n                            </div>\n                          </td>\n                        </tr>\n                      </tbody>\n                    </table>\n                    </div>\n                  </div>\n              </div>\n              </div>\n          </div>\n        </div>\n        <div class=\"u-row-container\" style=\"padding: 0px;background-color: transparent\">\n          <div class=\"u-row\" style=\"Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #780000;\">\n            <div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n              <div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n                <div style=\"height: 100%;width: 100% !important;\">\n                  <div style=\"height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\">\n                    <table style=\"font-family:'Open Sans',sans-serif;\" role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" border=\"0\">\n                      <tbody>\n                        <tr>\n                          <td style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:'Open Sans',sans-serif;\" align=\"left\">\n                            <table height=\"0px\" align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #946D55;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n                              <tbody>\n                                <tr style=\"vertical-align: top\">\n                                  <td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n                                    <span>&nbsp;</span>\n                                  </td>\n                                </tr>\n                              </tbody>\n                            </table>\n                          </td>\n                        </tr>\n                      </tbody>\n                    </table>\n                  </div>\n              </div>\n              </div>\n              </div>\n          </div>\n        </div>\n        <div class=\"u-row-container\" style=\"padding: 0px;background-color: transparent\">\n          <div class=\"u-row\" style=\"Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;\">\n            <div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n              <div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n                <div style=\"height: 100%;width: 100% !important;\">\n                  <div style=\"height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\">\n                    <table style=\"font-family:'Open Sans',sans-serif;\" role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" border=\"0\">\n                      <tbody>\n                        <tr>\n                          <td style=\"overflow-wrap:break-word;word-break:break-word;padding:21px;font-family:'Open Sans',sans-serif;\" align=\"left\">\n                            <div align=\"center\">\n                              <div style=\"display: table; max-width:151px;\">\n                                <table align=\"left\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"32\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 6px\">\n                                  <tbody>\n                                    <tr style=\"vertical-align: top\">\n                                      <td align=\"left\" valign=\"middle\" style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\">\n                                        <a href=\"https://www.facebook.com/CIMBIndonesia\" title=\"Facebook\" target=\"_blank\">\n                                          <img src=\"https://cdn.tools.unlayer.com/social/icons/circle/facebook.png\" alt=\"Facebook\" title=\"Facebook\" width=\"32\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\">\n                                        </a>\n                                      </td>\n                                    </tr>\n                                  </tbody>\n                                </table>\n                                <table align=\"left\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"32\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 6px\">\n                                  <tbody>\n                                    <tr style=\"vertical-align: top\">\n                                      <td align=\"left\" valign=\"middle\" style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\">\n                                        <a href=\"https://twitter.com/cimbniaga\" title=\"Twitter\" target=\"_blank\">\n                                          <img src=\"https://cdn.tools.unlayer.com/social/icons/circle/twitter.png\" alt=\"Twitter\" title=\"Twitter\" width=\"32\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\">\n                                        </a>\n                                      </td>\n                                    </tr>\n                                  </tbody>\n                                </table>\n                                <table align=\"left\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"32\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 6px\">\n                                  <tbody>\n                                    <tr style=\"vertical-align: top\">\n                                      <td align=\"left\" valign=\"middle\" style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\">\n                                        <a href=\"https://www.linkedin.com/company/pt--bank-cimb-niaga-tbk/\" title=\"LinkedIn\" target=\"_blank\">\n                                          <img src=\"https://cdn.tools.unlayer.com/social/icons/circle/linkedin.png\" alt=\"LinkedIn\" title=\"LinkedIn\" width=\"32\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\">\n                                        </a>\n                                      </td>\n                                    </tr>\n                                  </tbody>\n                                </table>\n                                <table align=\"left\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"32\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px\">\n                                  <tbody>\n                                    <tr style=\"vertical-align: top\">\n                                      <td align=\"left\" valign=\"middle\" style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\">\n                                        <a href=\"https://www.instagram.com/cimb_niaga/?hl=en\" title=\"Instagram\" target=\"_blank\">\n                                          <img src=\"https://cdn.tools.unlayer.com/social/icons/circle/instagram.png\" alt=\"Instagram\" title=\"Instagram\" width=\"32\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\">\n                                        </a>\n                                      </td>\n                                    </tr>\n                                  </tbody>\n                                </table>\n                                </div>\n                            </div>\n                          </td>\n                        </tr>\n                      </tbody>\n                    </table>\n                    <table style=\"font-family:'Open Sans',sans-serif;\" role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" border=\"0\">\n                      <tbody>\n                        <tr>\n                          <td style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:'Open Sans',sans-serif;\" align=\"left\">\n                            <table height=\"0px\" align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"90%\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n                              <tbody>\n                                <tr style=\"vertical-align: top\">\n                                  <td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n                                    <span>&nbsp;</span>\n                                  </td>\n                                </tr>\n                              </tbody>\n                            </table>\n                          </td>\n                        </tr>\n                      </tbody>\n                    </table>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"u-row-container\" style=\"padding: 0px;background-color: transparent\">\n          <div class=\"u-row\" style=\"Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;\">\n            <div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n            <div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n                <div style=\"background-color: #780000;height: 100%;width: 100% !important;\">\n                  <div style=\"height: 100%; padding: 0px 30px 20px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\">\n                    <table style=\"font-family:'Open Sans',sans-serif;\" role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" border=\"0\">\n                      <tbody>\n                        <tr>\n                          <td style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;\" align=\"left\">\n                            <div style=\"color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;\">\n                              <p style=\"font-size: 14px; line-height: 140%;\"> PT Bank CIMB Niaga Tbk</p>\n                            </div>\n                          </td>\n                        </tr>\n                      </tbody>\n                    </table>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n        </td>\n    </tr>\n  </tbody>\n</table>",
+  "is_delete": "no",
+  "is_active": "yes",
+  "created_at": "2023-08-22 11:25:17",
+  "updated_at": "2023-08-22 14:38:23",
+  "deleted_at": null
+},
+{
+  "_id": {
+    "$oid": "64f93767577f9586cb1c7893"
+  },
+  "title": "4",
+  "is_delete": "yes",
+  "is_active": "yes",
+  "created_at": "2023-09-07 09:37:27",
+  "updated_at": "2023-09-07 09:38:11",
+  "deleted_at": "2023-09-07 09:38:16",
+  "template_design": "ter"
+}]
